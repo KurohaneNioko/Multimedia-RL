@@ -1,0 +1,11 @@
+{'best_reward': 127.365,
+ 'duration': '3888.99s',
+ 'test_episode': 200.0,
+ 'test_speed': '130.98 step/s',
+ 'test_step': 43038,
+ 'test_time': '328.58s',
+ 'train_episode': 760.0,
+ 'train_speed': '33.86 step/s',
+ 'train_step': 120546,
+ 'train_time/collector': '753.48s',
+ 'train_time/model': '2806.93s'}
